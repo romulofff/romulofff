@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Rômulo Filho, I'm from Fortaleza, Ceará **Brasil**. Currently I'm pursuing a degree in **Computer Engineering** at Federal University of Ceará (UFC). I work as a Python and Computer Vision developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/romulofff/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:romulofffufc@gmail.com)
+[![Twitter URL](https://img.shields.io/static/v1?message=@romulof27&label=&nbsp;&color=1ca0f1&style=flat-square&logo=twitter&labelColor=1ca0f1&logoColor=white)](http://twitter.com/romulof27)
+
 
 <!--
 **romulofff/romulofff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
