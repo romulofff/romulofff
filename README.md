@@ -1,4 +1,4 @@
-### Hello World, I'm Rômulo! :octocat:
+## Hello World, I'm Rômulo! 🎮
 
 ![Romulofff's github stats](https://github-readme-stats.vercel.app/api?username=romulofff&show_icons=true&theme=dark&count_private=true)
 
