@@ -12,7 +12,7 @@ I'm Rômulo Filho, I'm from Fortaleza, Ceará **Brasil**. Currently I'm pursuing
 
 ## This is what I'm up to:
 - 🌱 I’m currently learning **Deep Reinforcement Learning** techniques and trying to teach AIs to play videogames
-- 🔭 I’m currently working on developing a **Guitar Hero** clone and implement a **Reinforcement Learning Environment** on it
+- 🔭 I’m currently developing a **Guitar Hero** clone and implementing a **Reinforcement Learning Environment** on it
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
 - 🤔 I’m looking for help with **PyGame** development
 - 💬 Ask me about **Python**, **Data Science** and **Video Games**!
