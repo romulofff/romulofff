@@ -2,7 +2,7 @@
 
 ![Romulofff's github stats](https://github-readme-stats.vercel.app/api?username=romulofff&show_icons=true&theme=dark&count_private=true)
 
-I'm Rômulo Filho, I'm from Fortaleza, Ceará **Brasil**. Currently I'm pursuing a degree in **Computer Engineering** at Federal University of Ceará (UFC). I work as a Python and Computer Vision engineer at Dell LEAD and when I'm not coding I play videogames. 
+I am Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate about games, technology and music. I've got a B.S in **Computer Engineering** in 2021 from Federal University of Ceará (UFC) in Brazil. My research interests lie mainly on Artificial Intelligence and particularly focus on Machine Learning and Reinforcement Learning.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/romulofff/)
@@ -11,12 +11,11 @@ I'm Rômulo Filho, I'm from Fortaleza, Ceará **Brasil**. Currently I'm pursuing
 
 
 ## This is what I'm up to:
-- 🌱 I’m currently learning **Deep Reinforcement Learning** techniques and trying to teach AIs to play videogames
-- 🔭 I’m currently developing a **Guitar Hero** clone and implementing a **Reinforcement Learning Environment** on it
+- 🌱 I’m currently learning **Deep Reinforcement Learning** techniques and teaching AIs to play videogames
+- 🔭 I’m currently researching Curriculum Learning on the environment **[Gym Hero](https://github.com/romulofff/gym-hero)**
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
-- 🤔 I’m looking for help with **PyGame** development
 - 💬 Ask me about **Python**, **Data Science** and **Video Games**!
-- 🎙 Check out my Video Games podcast **[Boteco Simulator](https://anchor.fm/botecosimulator)** (portuguese only)
+- 🎙 Check out my Video Games podcast **[Boteco Simulator](https://anchor.fm/botecosimulator)** (Portuguese only)
 
 ## Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulofff&layout=compact&theme=dark&langs_count=6) 
