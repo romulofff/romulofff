@@ -12,7 +12,7 @@ I am Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate
 
 ## This is what I'm up to:
 - 🌱 I’m currently learning **Deep Reinforcement Learning** techniques and teaching AIs to play videogames
-- 🔭 I’m currently researching Curriculum Learning on the environment **[Gym Hero](https://github.com/romulofff/gym-hero)**
+- 🔭 I’m currently researching Audio-Visual navigation in autonomous agents
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
 - 💬 Ask me about **Python**, **Data Science** and **Video Games**!
 - 🎙 Check out my Video Games podcast **[Boteco Simulator](https://anchor.fm/botecosimulator)** (Portuguese only)
