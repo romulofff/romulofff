@@ -12,17 +12,16 @@ I am Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate
 
 ## This is what I'm up to:
 - 🌱 I’m currently learning **Deep Reinforcement Learning** techniques and teaching AIs to play videogames
-- 🔭 I’m currently researching Audio-Visual navigation in autonomous agents
+- 🔭 I’m currently researching Audio-Visual foraging in autonomous agents
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects 
 - 💬 Ask me about **Python**, **Data Science** and **Video Games**!
 - 🎙 Check out my Video Games podcast **[Boteco Simulator](https://anchor.fm/botecosimulator)** (Portuguese only)
 
 ## I mainly code using:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SciKit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
