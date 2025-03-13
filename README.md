@@ -2,7 +2,7 @@
 
 ![Romulofff's github stats](https://github-readme-stats.vercel.app/api?username=romulofff&show_icons=true&theme=dark&count_private=true)
 
-I am Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate about games, technology and music. I've got a B.S in **Computer Engineering** in 2021 from Federal University of Ceará (UFC) in Brazil. My research interests lie mainly on Artificial Intelligence and particularly focus on Machine Learning and Reinforcement Learning.
+I am Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate about games, technology and music. I've got a Masters in **Computer Science** in 2024 and a B.S in **Computer Engineering** in 2021, both from Federal University of Ceará (UFC) in Brazil. My research interests lie mainly on Artificial Intelligence and particularly focus on Machine Learning and Reinforcement Learning.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/romulofff/)
